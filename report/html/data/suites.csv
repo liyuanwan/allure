@@ -1,4 +1,0 @@
-"Status","Name","Duration in ms","Description"
-"passed","test_contact.TestContact.test_login1","1",""
-"passed","test_contact.TestContact.test_login","2",""
-"passed","test_contact.TestContact.test_login2","1",""
