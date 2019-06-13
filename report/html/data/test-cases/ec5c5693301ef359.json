@@ -1,0 +1,60 @@
+{
+  "uid" : "ec5c5693301ef359",
+  "name" : "TestContact.test_login",
+  "fullName" : "test_contact.TestContact.test_login",
+  "historyId" : "8798d55fa5489e91a12283bfe3d52216",
+  "time" : {
+    "start" : 1560404758962,
+    "stop" : 1560404758964,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PS9UDFL"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "18412-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_contact"
+  }, {
+    "name" : "testClass",
+    "value" : "test_contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestContact.test_login"
+  }, {
+    "name" : "package",
+    "value" : "test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec5c5693301ef359.json",
+  "parameterValues" : [ ]
+}
